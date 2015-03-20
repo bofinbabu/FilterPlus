@@ -1,6 +1,7 @@
 # FilterPlus
 **A simple realtime content filtering extention for Chrome.**
-Content filtering in web browsers is a tedious process for most of the people because of several reasons. By blocking JavaScript, Cookies and Popups, end users can ensure maximum protection from browser based attacks and vulnerabilities. In order to accomplish this, we built an extension for Google Chrome which lets it’s users to have easy control on cookies, images, JavaScripts, popups and notifications. We also build this extension in such a way that it remembers the choice of options made by the user for every URLs, thereby letting user’s create rules for every websites they visit.
+
+Content filtering in web browsers is a tedious process for most of the people because of several reasons. By blocking JavaScript, Cookies and Popups, end users can ensure maximum protection from browser based attacks and vulnerabilities. 
 
 ![FilterPlus](https://github.com/bofinbabu/FilterPlus/blob/master/screenshot.PNG)
 
