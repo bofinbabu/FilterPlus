@@ -1,0 +1,11 @@
+{
+  "name" : "Filter Plus",
+  "version" : "0.1",
+  "description" : "One click control of images, JavaScript, Plugins, notifications and Cookies of all websites",
+  "permissions": [ "contentSettings", "tabs" ],
+  "browser_action": {
+     "default_icon": "images/logo.png",
+     "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
