@@ -1,5 +1,5 @@
 # FilterPlus
-**A simple realtime content filtering extention for Chrome.**
+**A simple, realtime content filtering extention for Chrome.**
 
 Content filtering in web browsers is a tedious process for most of the people because of several reasons. By blocking JavaScript, Cookies and Popups, end users can ensure maximum protection from browser based attacks and vulnerabilities. 
 
